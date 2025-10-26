@@ -2,3 +2,16 @@ venv/
 __pycache__/
 *.pyc
 *.db
+
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore database files
+*.db
+
